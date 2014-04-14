@@ -1,0 +1,9 @@
+* {
+    font-family: sans-serif;
+}
+
+#inside
+{
+display : table;
+margin : 0 auto;
+}
