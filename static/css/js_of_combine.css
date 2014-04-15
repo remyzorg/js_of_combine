@@ -2,8 +2,22 @@
     font-family: sans-serif;
 }
 
-#inside
+.left_element
 {
-display : table;
-margin : 0 auto;
+    float:left;
+    width:50%;
+}
+
+.error_div{
+    color: red;
+}
+
+.output_div{
+    color: green;
+}
+
+.right_element
+{
+    float:right;
+    width:50%;
 }

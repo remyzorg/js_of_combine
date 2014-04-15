@@ -104,5 +104,5 @@ problem scott_problem = scott_board all_pentaminos_nosym
 
 timing on
 
-solve dlx scott_problem ascii
+solve dlx scott_problem svg "out.svg"
 

@@ -11,9 +11,9 @@ SERVER_FILES := $(wildcard *.eliomi *.eliom)
 CLIENT_FILES := $(wildcard *.eliomi *.eliom)
 
 # OCamlfind packages for the server
-SERVER_PACKAGES := combine
+SERVER_PACKAGES := unix combine
 # OCamlfind packages for the client
-CLIENT_PACKAGES := combine
+CLIENT_PACKAGES := unix combine
 
 # Directory with files to be statically served
 LOCAL_STATIC = static

@@ -1197,3 +1197,381 @@ Apr 14 17:42:06: main: While parsing config file, tag <host>: No defaulthostname
 Apr 14 17:42:06: main: Ocsigen has been launched (initialisations ok)
 Apr 14 17:46:10: main: Initializing Ocsipersist-dbm...
 Apr 14 17:46:10: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 14 17:50:33: main: Initializing Ocsipersist-dbm...
+Apr 14 17:50:33: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 14 17:50:36: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 14 17:50:39: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 14 17:51:12: main: Initializing Ocsipersist-dbm...
+Apr 14 17:51:12: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 14 17:51:16: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 14 17:51:19: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 14 17:53:11: main: Initializing Ocsipersist-dbm...
+Apr 14 17:53:11: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 14 17:53:12: main: ...Initialization of Ocsipersist-dbm complete
+Apr 14 17:53:12: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 14 17:53:12: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:35:11: main: Initializing Ocsipersist-dbm...
+Apr 15 09:35:11: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:35:12: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:35:12: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:35:12: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:36:35: main: Initializing Ocsipersist-dbm...
+Apr 15 09:36:35: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:36:36: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:36:36: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:36:36: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:36:53: main: Initializing Ocsipersist-dbm...
+Apr 15 09:36:53: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:36:54: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:36:54: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:36:54: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:38:17: main: Initializing Ocsipersist-dbm...
+Apr 15 09:38:17: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:38:18: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:38:18: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:38:18: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:43:59: main: Initializing Ocsipersist-dbm...
+Apr 15 09:43:59: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:44:00: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:44:00: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:44:00: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:44:41: main: Initializing Ocsipersist-dbm...
+Apr 15 09:44:41: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:44:42: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:44:42: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:44:42: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:45:03: main: Initializing Ocsipersist-dbm...
+Apr 15 09:45:03: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:45:04: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:45:04: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:45:04: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:49:47: main: Initializing Ocsipersist-dbm...
+Apr 15 09:49:47: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:49:48: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:49:48: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:49:48: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:51:24: main: Initializing Ocsipersist-dbm...
+Apr 15 09:51:24: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:51:25: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:51:25: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:51:25: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:53:15: main: Initializing Ocsipersist-dbm...
+Apr 15 09:53:15: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:53:16: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:53:16: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:53:16: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:53:53: main: Initializing Ocsipersist-dbm...
+Apr 15 09:53:53: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:53:54: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:53:54: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:53:54: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:54:32: main: Initializing Ocsipersist-dbm...
+Apr 15 09:54:32: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:54:33: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:54:33: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:54:33: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:56:18: main: Initializing Ocsipersist-dbm...
+Apr 15 09:56:18: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:56:19: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:56:20: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:56:20: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:58:06: main: Initializing Ocsipersist-dbm...
+Apr 15 09:58:06: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:58:07: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:58:07: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:58:07: main: Ocsigen has been launched (initialisations ok)
+Apr 15 09:59:42: main: Initializing Ocsipersist-dbm...
+Apr 15 09:59:42: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 09:59:44: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 09:59:44: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 09:59:44: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:00:32: main: Initializing Ocsipersist-dbm...
+Apr 15 10:00:32: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:00:33: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:00:34: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:00:34: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:01:56: main: Initializing Ocsipersist-dbm...
+Apr 15 10:01:56: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:01:57: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:01:57: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:01:57: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:07:07: main: Initializing Ocsipersist-dbm...
+Apr 15 10:07:07: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:07:08: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:07:08: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:07:08: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:07:44: main: Initializing Ocsipersist-dbm...
+Apr 15 10:07:44: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:07:45: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:07:45: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:07:45: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:11:57: main: Initializing Ocsipersist-dbm...
+Apr 15 10:11:57: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:11:58: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:11:58: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:11:58: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:12:22: main: Initializing Ocsipersist-dbm...
+Apr 15 10:12:22: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:12:23: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:12:23: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:12:23: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:14:48: main: Initializing Ocsipersist-dbm...
+Apr 15 10:14:48: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:14:49: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:14:49: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:14:49: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:32:51: main: Initializing Ocsipersist-dbm...
+Apr 15 10:32:51: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:32:52: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:32:52: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:32:52: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:33:05: main: Initializing Ocsipersist-dbm...
+Apr 15 10:33:05: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:33:06: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:33:06: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:33:06: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:40:59: main: Initializing Ocsipersist-dbm...
+Apr 15 10:40:59: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:41:01: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:41:01: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:41:01: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:42:18: main: Initializing Ocsipersist-dbm...
+Apr 15 10:42:18: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:42:19: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:42:19: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:42:19: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:45:42: main: Initializing Ocsipersist-dbm...
+Apr 15 10:45:42: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:45:43: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:45:43: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:45:43: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:55:32: main: Initializing Ocsipersist-dbm...
+Apr 15 10:55:32: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:55:33: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:55:33: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:55:33: main: Ocsigen has been launched (initialisations ok)
+Apr 15 10:56:18: main: Initializing Ocsipersist-dbm...
+Apr 15 10:56:18: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 10:56:19: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 10:56:19: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 10:56:19: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:13:10: main: Initializing Ocsipersist-dbm...
+Apr 15 11:13:10: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:13:11: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:13:12: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:13:12: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:13:45: main: Initializing Ocsipersist-dbm...
+Apr 15 11:13:45: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:13:47: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:13:47: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:13:47: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:14:16: main: Initializing Ocsipersist-dbm...
+Apr 15 11:14:16: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:14:17: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:14:17: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:14:17: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:14:45: main: Initializing Ocsipersist-dbm...
+Apr 15 11:14:45: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:14:46: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:14:46: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:14:46: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:18:02: main: Initializing Ocsipersist-dbm...
+Apr 15 11:18:02: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:18:03: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:18:03: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:18:03: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:25:44: main: Initializing Ocsipersist-dbm...
+Apr 15 11:25:44: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:25:45: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:25:45: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:25:45: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:26:08: main: Initializing Ocsipersist-dbm...
+Apr 15 11:26:08: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:26:09: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:26:09: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:26:09: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:39:22: main: Initializing Ocsipersist-dbm...
+Apr 15 11:39:22: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:39:23: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:39:23: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:39:23: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:41:08: main: Initializing Ocsipersist-dbm...
+Apr 15 11:41:08: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:41:09: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:41:09: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:41:09: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:41:30: main: Initializing Ocsipersist-dbm...
+Apr 15 11:41:30: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:41:31: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:41:31: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:41:31: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:42:41: main: Initializing Ocsipersist-dbm...
+Apr 15 11:42:41: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:42:42: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:42:42: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:42:42: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:43:00: main: Initializing Ocsipersist-dbm...
+Apr 15 11:43:00: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:43:01: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:43:01: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:43:01: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:49:57: main: Initializing Ocsipersist-dbm...
+Apr 15 11:49:57: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:49:58: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:49:58: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:49:58: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:55:46: main: Initializing Ocsipersist-dbm...
+Apr 15 11:55:46: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:55:47: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:55:47: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:55:47: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:56:02: main: Initializing Ocsipersist-dbm...
+Apr 15 11:56:02: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:56:03: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:56:03: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:56:03: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:56:48: main: Initializing Ocsipersist-dbm...
+Apr 15 11:56:48: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:56:49: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:56:49: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:56:49: main: Ocsigen has been launched (initialisations ok)
+Apr 15 11:57:06: main: Initializing Ocsipersist-dbm...
+Apr 15 11:57:06: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 11:57:07: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 11:57:07: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 11:57:07: main: Ocsigen has been launched (initialisations ok)
+Apr 15 13:44:25: main: Initializing Ocsipersist-dbm...
+Apr 15 13:44:25: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 13:44:26: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 13:44:26: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 13:44:26: main: Ocsigen has been launched (initialisations ok)
+Apr 15 13:44:45: main: Initializing Ocsipersist-dbm...
+Apr 15 13:44:45: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 13:44:46: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 13:44:46: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 13:44:46: main: Ocsigen has been launched (initialisations ok)
+Apr 15 13:52:26: main: Initializing Ocsipersist-dbm...
+Apr 15 13:52:26: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 13:52:27: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 13:52:27: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 13:52:27: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:03:40: main: Initializing Ocsipersist-dbm...
+Apr 15 14:03:40: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:03:41: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:03:41: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:03:41: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:09:55: main: Initializing Ocsipersist-dbm...
+Apr 15 14:09:55: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:09:56: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:09:56: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:09:56: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:16:13: main: Initializing Ocsipersist-dbm...
+Apr 15 14:16:13: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:16:14: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:16:14: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:16:14: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:16:34: main: Initializing Ocsipersist-dbm...
+Apr 15 14:16:34: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:16:35: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:16:35: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:16:35: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:26:25: main: Initializing Ocsipersist-dbm...
+Apr 15 14:26:25: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:26:26: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:26:26: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:26:26: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:29:15: main: Initializing Ocsipersist-dbm...
+Apr 15 14:29:15: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:29:16: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:29:16: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:29:16: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:29:28: main: Initializing Ocsipersist-dbm...
+Apr 15 14:29:28: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:29:30: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:29:30: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:29:30: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:29:54: main: Initializing Ocsipersist-dbm...
+Apr 15 14:29:54: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:29:55: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:29:55: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:29:55: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:36:36: main: Initializing Ocsipersist-dbm...
+Apr 15 14:36:36: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:36:37: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:36:37: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:36:37: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:43:23: main: Initializing Ocsipersist-dbm...
+Apr 15 14:43:23: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:43:24: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:43:24: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:43:24: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:43:54: main: Initializing Ocsipersist-dbm...
+Apr 15 14:43:54: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:43:55: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:43:55: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:43:55: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:45:05: main: Initializing Ocsipersist-dbm...
+Apr 15 14:45:05: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:45:06: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:45:06: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:45:06: main: Ocsigen has been launched (initialisations ok)
+Apr 15 14:45:39: main: Initializing Ocsipersist-dbm...
+Apr 15 14:45:39: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 14:45:41: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 14:45:41: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 14:45:41: main: Ocsigen has been launched (initialisations ok)
+Apr 15 15:42:21: main: Initializing Ocsipersist-dbm...
+Apr 15 15:42:21: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 15:42:22: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 15:42:22: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 15:42:22: main: Ocsigen has been launched (initialisations ok)
+Apr 15 16:09:52: main: Initializing Ocsipersist-dbm...
+Apr 15 16:09:52: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 16:09:54: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 16:09:54: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 16:09:54: main: Ocsigen has been launched (initialisations ok)
+Apr 15 16:11:35: main: Initializing Ocsipersist-dbm...
+Apr 15 16:11:35: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 16:11:36: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 16:11:36: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 16:11:36: main: Ocsigen has been launched (initialisations ok)
+Apr 15 16:39:16: main: Initializing Ocsipersist-dbm...
+Apr 15 16:39:16: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 16:39:17: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 16:39:17: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 16:39:17: main: Ocsigen has been launched (initialisations ok)
+Apr 15 16:40:47: main: Initializing Ocsipersist-dbm...
+Apr 15 16:40:47: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 16:40:48: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 16:40:48: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 16:40:48: main: Ocsigen has been launched (initialisations ok)
+Apr 15 16:45:23: main: Initializing Ocsipersist-dbm...
+Apr 15 16:45:23: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 16:45:24: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 16:45:24: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 16:45:24: main: Ocsigen has been launched (initialisations ok)
+Apr 15 16:56:49: main: Initializing Ocsipersist-dbm...
+Apr 15 16:56:49: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 16:56:50: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 16:56:50: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 16:56:50: main: Ocsigen has been launched (initialisations ok)
+Apr 15 17:00:23: main: Initializing Ocsipersist-dbm...
+Apr 15 17:00:23: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 17:00:24: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 17:00:24: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 17:00:24: main: Ocsigen has been launched (initialisations ok)
+Apr 15 17:00:52: main: Initializing Ocsipersist-dbm...
+Apr 15 17:00:52: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 17:00:53: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 17:00:53: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 17:00:53: main: Ocsigen has been launched (initialisations ok)
+Apr 15 17:03:00: main: Initializing Ocsipersist-dbm...
+Apr 15 17:03:00: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 17:03:01: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 17:03:01: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 17:03:01: main: Ocsigen has been launched (initialisations ok)
+Apr 15 17:04:02: main: Initializing Ocsipersist-dbm...
+Apr 15 17:04:02: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 15 17:04:03: main: ...Initialization of Ocsipersist-dbm complete
+Apr 15 17:04:03: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
+Apr 15 17:04:03: main: Ocsigen has been launched (initialisations ok)
