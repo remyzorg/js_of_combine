@@ -5,19 +5,34 @@
 .left_element
 {
     float:left;
-    width:50%;
 }
 
 .error_div{
     color: red;
+    width: 50%;
 }
 
 .output_div{
     color: green;
+    width: 50%;
 }
+
+.outputs{
+    color: green;
+    width: 40%;
+}
+
+.files{
+    width: 20%;
+}
+
+
+.console{
+    width: 40%;
+}
+
 
 .right_element
 {
     float:right;
-    width:50%;
 }

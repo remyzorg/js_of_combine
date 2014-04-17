@@ -31,3 +31,11 @@ Apr 14 17:50:40: main: Fatal - While loading /home/remy/.opam/4.01.0/lib/ocsigen
 
 Apr 14 17:51:20: main: Cannot connect to Ocsidbm. Will continue without persistent session support. Error message is: Connection refused in connect(). Have a look at the logs to see if there is an error message from the Ocsidbm process.
 Apr 14 17:51:20: main: Fatal - While loading /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsipersist-dbm.cma: Unix.Unix_error(Unix.ECONNREFUSED, "connect", "")
+17-04-2014 10:18:36 Ocsidbm - Please make sure that the directory local/var/data/js_of_combine/ocsipersist exists, writable for ocsidbm, and no other ocsidbm process is running on the same directory. If not, remove the file local/var/data/js_of_combine/ocsipersist/socket
+
+17-04-2014 10:18:39 Ocsidbm - Please make sure that the directory local/var/data/js_of_combine/ocsipersist exists, writable for ocsidbm, and no other ocsidbm process is running on the same directory. If not, remove the file local/var/data/js_of_combine/ocsipersist/socket
+
+17-04-2014 10:18:42 Ocsidbm - Please make sure that the directory local/var/data/js_of_combine/ocsipersist exists, writable for ocsidbm, and no other ocsidbm process is running on the same directory. If not, remove the file local/var/data/js_of_combine/ocsipersist/socket
+
+Apr 17 10:18:43: main: Cannot connect to Ocsidbm. Will continue without persistent session support. Error message is: Connection refused in connect(). Have a look at the logs to see if there is an error message from the Ocsidbm process.
+Apr 17 10:18:43: main: Fatal - While loading /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsipersist-dbm.cma: Unix.Unix_error(Unix.ECONNREFUSED, "connect", "")

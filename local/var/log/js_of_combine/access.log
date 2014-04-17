@@ -1032,3 +1032,276 @@ Apr 15 17:03:05: access: connection for localhost from ::1 (Mozilla/5.0 (X11; Li
 Apr 15 17:03:05: access: connection for localhost from ::1 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.123 Safari/537.36): css/js_of_combine.css
 Apr 15 17:03:05: access: connection for localhost from ::1 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.123 Safari/537.36): js_of_combine.js
 Apr 15 17:03:05: access: connection for localhost from ::1 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.123 Safari/537.36): css/bootstrap.css
+Apr 16 19:53:28: access: connection for 192.168.56.101 from 192.168.56.101 (w3m/0.5.3): 
+Apr 16 20:00:26: access: connection for 192.168.56.101 from 192.168.56.101 (w3m/0.5.3): 
+Apr 17 09:54:58: access: connection for 192.168.56.101 from 192.168.56.101 (w3m/0.5.3): 
+Apr 17 09:59:28: access: connection for 192.168.56.101 from 192.168.56.101 (w3m/0.5.3): 
+Apr 17 10:19:38: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 10:19:39: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 10:19:39: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 10:19:39: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 10:19:39: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): favicon.ico
+Apr 17 10:19:39: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): favicon.ico
+Apr 17 10:22:19: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 10:22:20: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 10:22:20: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 10:22:20: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 10:25:16: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): 
+Apr 17 10:25:16: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): css/js_of_combine.css
+Apr 17 10:25:16: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): css/bootstrap.css
+Apr 17 10:25:16: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): js_of_combine.js
+Apr 17 10:25:17: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): favicon.ico
+Apr 17 10:38:25: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 10:38:26: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 10:39:18: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 10:39:18: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 10:39:41: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): 
+Apr 17 10:39:41: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): js_of_combine.js
+Apr 17 10:39:42: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): favicon.ico
+Apr 17 10:39:42: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): favicon.ico
+Apr 17 10:39:42: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): favicon.ico
+Apr 17 10:40:44: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 10:40:44: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 10:40:44: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 10:40:44: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 11:07:15: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 11:07:16: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 11:07:16: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 11:07:16: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 11:08:18: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 11:10:39: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 11:10:39: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 11:10:39: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 11:10:39: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 11:10:40: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 11:16:33: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 11:16:33: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 11:16:33: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 11:16:33: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 11:16:38: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 11:19:25: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 11:19:25: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 11:19:25: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 11:19:25: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 11:19:30: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 11:20:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 11:20:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 11:20:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 11:20:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 11:20:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 12:53:19: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 12:53:24: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 12:53:24: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 12:53:24: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 12:53:26: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 12:55:07: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 12:55:07: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 12:55:07: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 12:55:07: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 12:55:08: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 12:56:34: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 12:56:34: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 12:56:34: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 12:56:34: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 12:56:35: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 12:58:04: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 12:58:04: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 12:58:04: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 12:58:04: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 12:58:15: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 13:00:26: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): 
+Apr 17 13:00:26: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): css/js_of_combine.css
+Apr 17 13:00:26: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): css/bootstrap.css
+Apr 17 13:00:26: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): js_of_combine.js
+Apr 17 13:00:27: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): favicon.ico
+Apr 17 13:00:27: access: connection for 192.168.56.101 from 192.168.56.101 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36): favicon.ico
+Apr 17 13:02:02: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:02:02: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:02:02: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:02:02: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 13:02:38: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:02:38: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:02:38: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:02:38: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 13:05:00: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:05:00: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:05:00: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:05:00: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 13:08:47: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:08:47: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:08:47: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:08:47: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 13:24:45: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:24:46: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:24:46: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:24:46: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 13:32:44: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:32:44: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:32:44: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:32:44: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 13:52:03: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:52:03: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:52:03: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:52:03: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 13:54:20: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:54:20: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:54:20: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:54:20: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 13:55:19: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 13:56:14: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:56:15: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:56:15: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:56:15: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 13:56:32: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 13:56:33: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 13:56:33: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 13:56:33: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 14:16:29: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 14:16:29: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 14:16:29: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 14:16:29: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 14:17:24: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 14:17:24: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 14:17:24: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 14:17:24: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 14:17:32: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 14:20:09: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 14:20:10: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 14:20:10: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 14:20:10: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 14:20:10: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 14:21:36: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 14:21:36: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 14:21:36: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 14:21:36: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 14:21:37: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 14:44:30: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 14:44:30: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 14:44:30: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 14:44:30: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 14:45:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 14:45:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 14:45:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 14:45:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 14:51:37: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 14:51:37: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 14:51:37: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 14:51:37: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 14:57:26: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 14:57:27: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 14:57:27: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 14:57:27: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 14:57:54: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 14:57:54: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 14:57:54: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 14:57:54: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 15:17:21: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 15:24:35: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples
+Apr 17 15:24:35: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:29:19: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:29:42: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:29:43: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:30:08: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:30:09: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:30:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 15:30:11: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 15:44:49: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 15:44:49: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 15:44:49: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 15:44:49: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 15:44:54: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:45:06: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examfzefze
+Apr 17 15:47:28: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:47:29: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:47:38: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): sendfiles
+Apr 17 15:47:45: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): sendfile
+Apr 17 15:48:05: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:48:14: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): sendfile
+Apr 17 15:48:47: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): sendfile
+Apr 17 15:49:10: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): gf
+Apr 17 15:50:51: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): gf
+Apr 17 15:50:55: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:50:58: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/scott.cmb
+Apr 17 15:52:34: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:52:38: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:53:06: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:53:07: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:53:08: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:53:09: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:53:09: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:53:09: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:54:30: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples/
+Apr 17 15:54:32: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 15:57:01: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 15:57:01: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 15:57:01: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 15:57:01: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 15:59:21: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 15:59:21: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 15:59:21: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 15:59:21: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 15:59:44: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 16:03:04: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:03:04: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:03:04: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:03:04: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:03:05: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 16:03:59: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:04:00: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:04:00: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:04:00: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:04:00: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 16:11:51: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:11:51: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:11:51: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:11:51: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:13:23: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:13:23: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:13:23: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:13:23: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:14:49: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:14:49: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:14:49: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:14:49: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:17:23: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:17:23: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:17:23: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:17:23: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:26:41: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:26:41: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:26:41: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:26:41: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:26:43: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): scott.cmb
+Apr 17 16:29:53: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:29:53: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:29:53: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:29:53: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:31:14: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:31:14: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:31:14: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:31:14: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:31:16: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): static%2Fexamples%2Fscott.cmb
+Apr 17 16:31:33: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): static%2Fexamples%2Fscott.cmb
+Apr 17 16:31:41: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): static/examples/scott.cmb
+Apr 17 16:31:54: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 16:33:30: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:33:31: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:33:31: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:33:31: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:33:31: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 16:33:34: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): examples%2Fscott.cmb
+Apr 17 16:33:46: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css.map
+Apr 17 16:40:37: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:41:48: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:43:31: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:43:31: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:43:31: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:43:31: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 16:47:58: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 16:47:59: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 16:47:59: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 16:47:59: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js
+Apr 17 17:05:45: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): 
+Apr 17 17:05:45: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/js_of_combine.css
+Apr 17 17:05:45: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): css/bootstrap.css
+Apr 17 17:05:45: access: connection for 192.168.56.101 from 192.168.56.1 (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36): js_of_combine.js

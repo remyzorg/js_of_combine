@@ -49,64 +49,78 @@
     in
     p
 
-  let append_endline_to_br elmt str =
+  let content_of_string str =
     let splited = Regexp.(split (regexp "\n") str) in
-    List.iter (fun s ->
-      Dom.appendChild elmt (doc##createTextNode (Js.string s));
-      Dom.appendChild elmt (Dom_html.createBr doc)
-    ) splited
+    let with_br = List.fold_left (fun acc line ->
+      br () :: pcdata line :: acc
+    ) [] splited
+    in
+    List.rev with_br
+
 
   let read_file f =
     let fin = open_in f in
-
     let b = Buffer.create 30 in
     let rec step () = Buffer.add_string b (input_line fin); step () in
     begin try step () with End_of_file -> close_in fin end;
     Buffer.contents b
 
-  let print_to_div errbuff outbuff d out_field err_field =
-    if Buffer.length outbuff > 0 then begin
-      let outp = Dom_html.createP doc in
-      append_endline_to_br outp (Buffer.contents outbuff);
-
-      let fs = read_file "out.svg" in
-      (* let text_node = doc##createTextNode (Js.string fs) in *)
-      let div_svg = Dom_html.createDiv doc in
-      (* div_svg##innerHTML <- Js.string fs; *)
-      (* let text_node = doc##createElementNS *)
-      (*   (Js.string "http://www.w3.org/2000/svg", Js.string "svg") in *)
-      div_svg##innerHTML <- Js.string fs;
 
 
-      (* Dom_html.window##alert (Js.string fs); *)
-      (* let svg = Svg.Of_dom.of_element text_node in *)
-      Dom.insertBefore (To_dom.of_node out_field) div_svg
-        ((To_dom.of_node out_field)##firstChild);
-      Dom.insertBefore (To_dom.of_node out_field) outp
-        ((To_dom.of_node out_field)##firstChild)
-
-    end;
-    if Buffer.length errbuff > 0 then begin
-      let errp = Dom_html.createP doc in
-      append_endline_to_br errp (Buffer.contents errbuff);
-      Dom.insertBefore (To_dom.of_node err_field) errp
-        ((To_dom.of_node err_field)##firstChild)
-    end;
-    Buffer.reset errbuff;
-    Buffer.reset outbuff
+    (*   div_svg##innerHTML <- Js.string fs; *)
+    (*   (\* Dom_html.window##alert (Js.string fs); *\) *)
+    (*   (\* let svg = Svg.Of_dom.of_element text_node in *\) *)
+    (*   Dom.insertBefore (To_dom.of_node out_field) div_svg *)
+    (*     ((To_dom.of_node out_field)##firstChild); *)
+    (*   Dom.insertBefore (To_dom.of_node out_field) outp *)
+    (*     ((To_dom.of_node out_field)##firstChild) *)
 
 
-        (* Dom_html.window##alert (Js.string (Buffer.contents (outbuff))); *)
 
-  let interp errbuff outbuff d out_field err_field _ _ =
+  let outbuff = Buffer.create 30
+  let errbuff = Buffer.create 30
+  let errfmt = Format.formatter_of_buffer errbuff
+  let outfmt = Format.formatter_of_buffer outbuff
+
+  let append_elmt d elmt =
+    Dom.appendChild (To_dom.of_element d)
+      (To_dom.of_element elmt)
+
+  let outputs_signal, set_outputs = React.S.create ("", "")
+
+  let reactive_outputs_node : Html5_types.div elt React.signal =
+    let react (outs, errs) =
+      D.div [
+        p ~a:[a_class ["left_element"; "output_div"]] (content_of_string outs);
+        p ~a:[a_class ["left_element"; "error_div"]] (content_of_string errs)
+      ]
+    in
+    React.S.l1 react outputs_signal
+
+  let clear_buff_event, set_clear_buff = React.E.create ()
+  let react_to_clear_buff () =
+    Buffer.reset outbuff; Buffer.reset errbuff
+  let () = ignore(React.E.map react_to_clear_buff clear_buff_event)
+
+
+  let example_input_signal, set_input_example = React.S.create ""
+
+  let reactive_input : Html5_types.textarea elt React.signal =
+    let react s =
+      D.raw_textarea ~name:"" ~value:s ()
+    in
+    React.S.l1 react example_input_signal
+
+
+
+
+
+  let interp d _ _ =
     let open Combine in
-    let errfmt = Format.formatter_of_buffer errbuff in
-    let outfmt = Format.formatter_of_buffer outbuff in
     begin
       let to_interp = Js.to_string (getContent (To_dom.of_node d)) in
       let lb = Lexing.from_string to_interp in
       try
-
         let tree = parse_string errfmt lb in
         JsInterp.interp outfmt errfmt tree
       with
@@ -126,18 +140,16 @@
       | e ->
         Format.fprintf errfmt "Uncaught exception: %s@." (Printexc.to_string e)
     end;
-    print_to_div errbuff outbuff d out_field err_field;
+    set_outputs (Buffer.contents outbuff, Buffer.contents errbuff);
     Lwt.return ()
 
 
-}}
 
-
-
-{client{
   let create_tarea () =
-    let input = Dom_html.createTextarea ~_type:(Js.string "text")
-      ~name:(Js.string "test") doc in
+    let tarea = R.node reactive_input in
+    let input = To_dom.of_element tarea in
+    (* let input = Dom_html.createTextarea ~_type:(Js.string "text") *)
+    (*   ~name:(Js.string "test") doc in *)
     input##setAttribute (Js.string "rows", Js.string "30") ;
     input##setAttribute (Js.string "cols", Js.string "80") ;
     input

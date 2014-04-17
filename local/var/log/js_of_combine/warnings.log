@@ -1575,3 +1575,395 @@ Apr 15 17:04:02: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/
 Apr 15 17:04:03: main: ...Initialization of Ocsipersist-dbm complete
 Apr 15 17:04:03: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "carri.ipv6.lip6.fr"
 Apr 15 17:04:03: main: Ocsigen has been launched (initialisations ok)
+Apr 16 19:50:59: main: Command pipe created
+Apr 16 19:50:59: main: Initializing Ocsipersist-dbm...
+Apr 16 19:50:59: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 16 19:51:00: main: ...Initialization of Ocsipersist-dbm complete
+Apr 16 19:51:01: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 16 19:51:01: main: Ocsigen has been launched (initialisations ok)
+Apr 16 19:51:34: main: Initializing Ocsipersist-dbm...
+Apr 16 19:51:34: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 16 19:51:35: main: ...Initialization of Ocsipersist-dbm complete
+Apr 16 19:51:35: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 16 19:51:35: main: Ocsigen has been launched (initialisations ok)
+Apr 17 09:48:18: main: Initializing Ocsipersist-dbm...
+Apr 17 09:48:18: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 09:48:19: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 09:48:19: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 09:48:19: main: Ocsigen has been launched (initialisations ok)
+Apr 17 09:53:27: main: Initializing Ocsipersist-dbm...
+Apr 17 09:53:27: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 09:53:28: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 09:53:28: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 09:53:28: main: Ocsigen has been launched (initialisations ok)
+Apr 17 10:10:18: main: Initializing Ocsipersist-dbm...
+Apr 17 10:10:18: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:10:19: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 10:10:20: main: While pApr 17 10:18:36: main: Initializing Ocsipersist-dbm...
+Apr 17 10:18:36: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:18:39: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:18:42: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:19:32: main: Initializing Ocsipersist-dbm...
+Apr 17 10:19:32: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:19:33: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 10:19:33: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 10:19:33: main: Ocsigen has been launched (initialisations ok)
+Apr 17 10:22:16: main: Initializing Ocsipersist-dbm...
+Apr 17 10:22:16: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:22:17: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 10:22:18: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 10:22:18: main: Ocsigen has been launched (initialisations ok)
+Apr 17 10:38:24: main: Initializing Ocsipersist-dbm...
+Apr 17 10:38:24: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:38:25: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 10:38:25: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 10:38:25: main: Ocsigen has been launched (initialisations ok)
+Apr 17 10:39:16: main: Initializing Ocsipersist-dbm...
+Apr 17 10:39:16: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:39:17: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 10:39:18: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 10:39:18: main: Ocsigen has been launched (initialisations ok)
+Apr 17 10:40:36: main: Initializing Ocsipersist-dbm...
+Apr 17 10:40:36: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:40:37: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 10:40:37: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 10:40:37: main: Ocsigen has been launched (initialisations ok)
+Apr 17 10:42:37: main: Initializing Ocsipersist-dbm...
+Apr 17 10:42:37: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 10:42:39: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 10:42:39: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 10:42:39: main: Ocsigen has been launched (initialisations ok)
+Apr 17 11:07:09: main: Initializing Ocsipersist-dbm...
+Apr 17 11:07:09: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 11:07:10: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 11:07:10: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 11:07:10: main: Ocsigen has been launched (initialisations ok)
+Apr 17 11:10:37: main: Initializing Ocsipersist-dbm...
+Apr 17 11:10:37: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 11:10:39: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 11:10:39: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 11:10:39: main: Ocsigen has been launched (initialisations ok)
+Apr 17 11:16:31: main: Initializing Ocsipersist-dbm...
+Apr 17 11:16:31: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 11:16:32: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 11:16:33: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 11:16:33: main: Ocsigen has been launched (initialisations ok)
+Apr 17 11:19:16: main: Initializing Ocsipersist-dbm...
+Apr 17 11:19:16: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 11:19:17: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 11:19:18: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 11:19:18: main: Ocsigen has been launched (initialisations ok)
+Apr 17 11:20:10: main: Initializing Ocsipersist-dbm...
+Apr 17 11:20:10: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 11:20:11: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 11:20:11: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 11:20:11: main: Ocsigen has been launched (initialisations ok)
+Apr 17 11:31:46: main: Initializing Ocsipersist-dbm...
+Apr 17 11:31:46: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 11:31:47: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 11:31:47: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 11:31:47: main: Ocsigen has been launched (initialisations ok)
+Apr 17 12:53:13: main: Initializing Ocsipersist-dbm...
+Apr 17 12:53:13: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 12:53:14: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 12:53:14: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 12:53:14: main: Ocsigen has been launched (initialisations ok)
+Apr 17 12:55:06: main: Initializing Ocsipersist-dbm...
+Apr 17 12:55:06: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 12:55:07: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 12:55:07: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 12:55:07: main: Ocsigen has been launched (initialisations ok)
+Apr 17 12:58:01: main: Initializing Ocsipersist-dbm...
+Apr 17 12:58:01: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 12:58:02: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 12:58:03: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 12:58:03: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:02:00: main: Initializing Ocsipersist-dbm...
+Apr 17 13:02:00: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:02:01: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:02:01: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:02:01: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:02:36: main: Initializing Ocsipersist-dbm...
+Apr 17 13:02:36: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:02:37: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:02:37: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:02:37: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:04:08: main: Initializing Ocsipersist-dbm...
+Apr 17 13:04:08: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:04:09: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:04:10: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:04:10: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:04:57: main: Initializing Ocsipersist-dbm...
+Apr 17 13:04:57: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:04:58: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:04:58: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:04:58: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:08:45: main: Initializing Ocsipersist-dbm...
+Apr 17 13:08:45: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:08:46: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:08:47: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:08:47: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:24:41: main: Initializing Ocsipersist-dbm...
+Apr 17 13:24:42: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:24:43: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:24:43: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:24:43: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:26:55: main: Initializing Ocsipersist-dbm...
+Apr 17 13:26:55: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:26:56: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:26:56: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:26:56: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:32:42: main: Initializing Ocsipersist-dbm...
+Apr 17 13:32:42: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:32:43: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:32:44: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:32:44: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:52:01: main: Initializing Ocsipersist-dbm...
+Apr 17 13:52:01: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:52:02: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:52:02: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:52:02: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:53:59: main: Initializing Ocsipersist-dbm...
+Apr 17 13:53:59: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:54:01: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:54:01: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:54:01: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:54:18: main: Initializing Ocsipersist-dbm...
+Apr 17 13:54:18: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:54:19: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:54:20: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:54:20: main: Ocsigen has been launched (initialisations ok)
+Apr 17 13:56:13: main: Initializing Ocsipersist-dbm...
+Apr 17 13:56:13: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 13:56:14: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 13:56:14: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 13:56:14: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:02:14: main: Initializing Ocsipersist-dbm...
+Apr 17 14:02:14: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:02:15: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:02:15: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:02:15: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:16:25: main: Initializing Ocsipersist-dbm...
+Apr 17 14:16:25: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:16:26: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:16:26: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:16:26: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:20:06: main: Initializing Ocsipersist-dbm...
+Apr 17 14:20:06: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:20:07: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:20:07: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:20:07: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:21:35: main: Initializing Ocsipersist-dbm...
+Apr 17 14:21:35: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:21:36: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:21:36: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:21:36: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:24:06: main: Initializing Ocsipersist-dbm...
+Apr 17 14:24:06: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:24:07: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:24:07: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:24:07: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:44:26: main: Initializing Ocsipersist-dbm...
+Apr 17 14:44:26: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:44:27: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:44:27: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:44:27: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:45:09: main: Initializing Ocsipersist-dbm...
+Apr 17 14:45:09: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:45:10: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:45:10: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:45:10: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:46:07: main: Initializing Ocsipersist-dbm...
+Apr 17 14:46:07: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:46:08: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:46:09: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:46:09: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:51:03: main: Initializing Ocsipersist-dbm...
+Apr 17 14:51:03: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:51:04: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:51:04: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:51:04: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:57:24: main: Initializing Ocsipersist-dbm...
+Apr 17 14:57:24: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:57:25: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:57:26: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:57:26: main: Ocsigen has been launched (initialisations ok)
+Apr 17 14:57:51: main: Initializing Ocsipersist-dbm...
+Apr 17 14:57:51: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 14:57:53: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 14:57:53: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 14:57:53: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:17:18: main: Initializing Ocsipersist-dbm...
+Apr 17 15:17:18: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:17:19: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:17:19: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:17:19: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:17:21: main: Exn during page generation: Unix.Unix_error(Unix.ENOENT, "opendir", "examples") (sending 500)
+Apr 17 15:24:29: main: Initializing Ocsipersist-dbm...
+Apr 17 15:24:29: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:24:30: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:24:30: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:24:30: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:29:13: main: Initializing Ocsipersist-dbm...
+Apr 17 15:29:13: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:29:14: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:29:15: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:29:15: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:29:41: main: Initializing Ocsipersist-dbm...
+Apr 17 15:29:41: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:29:42: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:29:42: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:29:42: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:30:07: main: Initializing Ocsipersist-dbm...
+Apr 17 15:30:07: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:30:08: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:30:08: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:30:08: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:44:40: main: Initializing Ocsipersist-dbm...
+Apr 17 15:44:40: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:44:41: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:44:41: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:44:41: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:45:41: main: Initializing Ocsipersist-dbm...
+Apr 17 15:45:41: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:45:42: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:45:42: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:45:42: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:47:25: main: Initializing Ocsipersist-dbm...
+Apr 17 15:47:25: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:47:26: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:47:27: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:47:27: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:47:57: main: Initializing Ocsipersist-dbm...
+Apr 17 15:47:57: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:47:58: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:47:58: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:47:58: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:49:09: main: Initializing Ocsipersist-dbm...
+Apr 17 15:49:09: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:49:10: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:49:10: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:49:10: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:50:50: main: Initializing Ocsipersist-dbm...
+Apr 17 15:50:50: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:50:51: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:50:51: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:50:51: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:52:29: main: Initializing Ocsipersist-dbm...
+Apr 17 15:52:29: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:52:30: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:52:30: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:52:30: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:53:04: main: Initializing Ocsipersist-dbm...
+Apr 17 15:53:04: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:53:05: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:53:05: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:53:05: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:54:22: main: Initializing Ocsipersist-dbm...
+Apr 17 15:54:22: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:54:23: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:54:24: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:54:24: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:54:32: main: Exn during page generation: Unix.Unix_error(Unix.ENOENT, "opendir", "examples") (sending 500)
+Apr 17 15:56:59: main: Initializing Ocsipersist-dbm...
+Apr 17 15:56:59: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:57:00: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:57:01: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:57:01: main: Ocsigen has been launched (initialisations ok)
+Apr 17 15:59:19: main: Initializing Ocsipersist-dbm...
+Apr 17 15:59:19: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 15:59:20: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 15:59:21: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 15:59:21: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:03:02: main: Initializing Ocsipersist-dbm...
+Apr 17 16:03:02: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:03:03: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:03:03: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:03:03: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:03:56: main: Initializing Ocsipersist-dbm...
+Apr 17 16:03:56: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:03:57: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:03:57: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:03:57: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:11:49: main: Initializing Ocsipersist-dbm...
+Apr 17 16:11:49: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:11:50: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:11:50: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:11:50: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:13:17: main: Initializing Ocsipersist-dbm...
+Apr 17 16:13:17: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:13:18: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:13:18: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:13:18: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:14:47: main: Initializing Ocsipersist-dbm...
+Apr 17 16:14:47: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:14:49: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:14:49: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:14:49: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:17:22: main: Initializing Ocsipersist-dbm...
+Apr 17 16:17:22: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:17:23: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:17:23: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:17:23: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:26:38: main: Initializing Ocsipersist-dbm...
+Apr 17 16:26:38: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:26:39: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:26:39: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:26:39: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:28:41: main: Initializing Ocsipersist-dbm...
+Apr 17 16:28:41: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:28:42: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:28:42: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:28:42: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:29:12: main: Initializing Ocsipersist-dbm...
+Apr 17 16:29:12: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:29:13: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:29:14: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:29:14: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:29:50: main: Initializing Ocsipersist-dbm...
+Apr 17 16:29:50: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:29:52: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:29:52: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:29:52: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:31:11: main: Initializing Ocsipersist-dbm...
+Apr 17 16:31:11: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:31:12: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:31:13: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:31:13: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:33:29: main: Initializing Ocsipersist-dbm...
+Apr 17 16:33:29: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:33:30: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:33:30: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:33:30: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:40:31: main: Initializing Ocsipersist-dbm...
+Apr 17 16:40:31: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:40:32: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:40:33: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:40:33: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:40:37: main: Exn during page generation: Unix.Unix_error(Unix.ENOENT, "opendir", "examples/") (sending 500)
+Apr 17 16:41:46: main: Initializing Ocsipersist-dbm...
+Apr 17 16:41:46: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:41:47: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:41:47: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:41:47: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:41:48: main: Exn during page generation: Unix.Unix_error(Unix.ENOENT, "opendir", "examples/") (sending 500)
+Apr 17 16:43:29: main: Initializing Ocsipersist-dbm...
+Apr 17 16:43:29: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:43:30: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:43:31: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:43:31: main: Ocsigen has been launched (initialisations ok)
+Apr 17 16:47:53: main: Initializing Ocsipersist-dbm...
+Apr 17 16:47:53: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 16:47:55: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 16:47:55: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 16:47:55: main: Ocsigen has been launched (initialisations ok)
+Apr 17 17:00:38: main: Initializing Ocsipersist-dbm...
+Apr 17 17:00:38: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 17:00:40: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 17:00:40: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 17:00:40: main: Ocsigen has been launched (initialisations ok)
+Apr 17 17:05:41: main: Initializing Ocsipersist-dbm...
+Apr 17 17:05:41: main: Launching a new Ocsidbm process: /home/remy/.opam/4.01.0/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/js_of_combine/ocsipersist.
+Apr 17 17:05:42: main: ...Initialization of Ocsipersist-dbm complete
+Apr 17 17:05:43: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "localhost.localdomain"
+Apr 17 17:05:43: main: Ocsigen has been launched (initialisations ok)
