@@ -42,7 +42,7 @@ let clear_btn () =
             fun _ _ ->
               let open Js_interp in
               set_clear_buff ();
-              Lwt.return (set_outputs ("", ""));
+              Lwt.return (set_outputs ("", "", []));
           )))
   }}
   in button
@@ -50,16 +50,15 @@ let clear_btn () =
 
 
 let div_with_area () =
-  let d = div ~a:[a_class ["left_element"; "console"]] [] in
+  let d = div ~a:[a_class ["left_element";]] [] in
   let _ = {unit{
     Lwt_js_events.(
       async (fun () ->
-        let tarea = Js_interp.create_tarea () in
+        let tarea = To_dom.of_element (R.node Js_interp.reactive_input) in
         Dom.appendChild (Html5.To_dom.of_element %d) tarea;
         Lwt.return ()
       )) }}
   in d
-
 
 
 let file_list dir =
@@ -75,36 +74,34 @@ let file_list dir =
   !lr
 
 
+let read_file f =
+  let ic = open_in f in
+  let b = Buffer.create 30 in
+  begin try
+    while true do Buffer.add_string b (input_line ic ^ "\n") done
+  with End_of_file -> () end;
+  Lwt.return (
+  Buffer.contents b)
 
-(* let sendfile = *)
-(*   Eliom_registration.File.register_service *)
-(*     ~path:["examples/scott.cmb"] *)
-(*     ~get_params:Eliom_parameter.unit *)
-(*     (fun () () -> Lwt.return "examples") *)
+(* type t = (int * string)  deriving(Json) *)
 
-
+{client{
+  let read_server_file = %(server_function Json.t<string> read_file)
+}}
 
 let file_node dir f =
-  let fsrv =
-    Eliom_registration.File.register_service
-    ~path:[dir ^ f]
-    ~get_params:Eliom_parameter.unit
-    (fun () () -> Lwt.return f)
-  in
   let a_button = Raw.a [pcdata f] in
   let _ = {unit{
     Lwt_js_events.(
       async (
         fun () ->
           clicks (To_dom.of_element %a_button) (
-            fun _ _ -> Lwt.return ();)))
+            fun _ _ ->
+              lwt s = read_server_file (%dir ^ %f) in
+              Js_interp.set_input_example s;
+              Lwt.return ();)))
   }}
   in a_button
-
-
-
-
-
 
 
 (* ; css_link ~uri:css_uri () *)
@@ -114,11 +111,14 @@ let () =
     (fun name () ->
       Lwt.return begin
         let outputs_div = div ~a:[a_class ["left_element"; "outputs"]] [] in
+        let svgs_div = div [] in
         let _ = {unit{
           Js_interp.(append_elmt %outputs_div
                        (R.node reactive_outputs_node))}} in
+        let _ = {unit{
+          Js_interp.(append_elmt %svgs_div
+                       (R.node reactive_svg_gallery))}} in
         let input_div = div_with_area () in
-
         Eliom_tools.D.html
           ~title:"js_of_combine"
           ~css:[["css";"js_of_combine.css"];
@@ -126,17 +126,14 @@ let () =
           (body [
             h2 [pcdata "Combine"];
             div [interp_button input_div];
-            (* let open Eliom_content.Html5.F in *)
-            (* a (Eliom_service.static_dir ()) *)
-            (*   [pcdata "download image"] ["scott.cmb"]; *)
-
             div [input_div;
                  div ~a:[a_class ["left_element"; "files"]]
-                   (List.map (fun s -> div [file_node ex_dir s])
+                   (List.map (fun s -> div [file_node ("static/" ^ ex_dir) s])
                       (file_list  ("static/" ^ ex_dir)));
                  clear_btn ();
                  outputs_div
-                ]
+                ];
+            svgs_div
           ])
 
       end)
