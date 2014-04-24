@@ -1,93 +1,8 @@
-
 ### Scott's pentaminos problem #############################################
-
-# The 12 pentaminos
-#
-# See for instance http://fr.wikipedia.org/wiki/Pentamino
-# Tiling problems involving the pentaminos can be found in penta.cmb
-
-
-pattern I = {
-*****
-}
-
-pattern V = {
-***
-*
-*
-}
-
-pattern Z = {
-.**
-.*
-**
-}
-
-pattern P = {
-***
-**
-}
-
-pattern N = {
-***.
-..**
-}
-
-pattern W = {
-.**
-**
-*
-}
-
-pattern Y = {
-****
-.*
-}
-
-pattern T = {
-***
-.*
-.*
-}
-
-pattern F = {
-.**
-**
-.*
-}
-
-pattern U = {
-***
-*.*
-}
-
-pattern L = {
-****
-*
-}
-pattern X = {
-.*.
-***
-.*.
-}
-
-tiles all_pentaminos =
-[ L ~one ~sym, T ~one ~sym, V ~one ~sym, N ~one ~sym,
-  Z ~one ~sym, F ~one ~sym, X ~one ~sym, W ~one ~sym,
-  P ~one ~sym, I ~one ~sym, Y ~one ~sym, U ~one ~sym ]
-
-tiles all_pentaminos_nosym =
-[ L ~one ~sym, T ~one ~sym, V ~one ~sym, N ~one ~sym,
-  Z ~one ~sym, F ~one     , X ~one ~sym, W ~one ~sym,
-  P ~one ~sym, I ~one ~sym, Y ~one ~sym, U ~one ~sym ]
-
-tiles some_pentaminos =
-[ L ~maybe ~sym, T ~maybe ~sym, V ~maybe ~sym, N ~maybe ~sym,
-  Z ~maybe ~sym, F ~maybe ~sym, X ~maybe ~sym, W ~maybe ~sym,
-  P ~maybe ~sym, I ~maybe ~sym, Y ~maybe ~sym, U ~maybe ~sym ]
-
 ### we eliminate the symetries of the problem by using only one
 ### orientation of pentamino F
+
+include "pentaminos.cmb"
 
 pattern scott_board = {
 ********
@@ -102,9 +17,20 @@ pattern scott_board = {
 
 problem scott_problem = scott_board all_pentaminos_nosym
 
+# print scott_problem
+
 timing on
+
+# solve dlx scott_problem svg "solutions/scott.svg"
 
 # count dlx scott_problem
 
-solve dlx scott_problem svg "out.svg"
+# solve sat "minisat2" scott_problem svg "solutions/scott2.svg"
+
+solve equal_size scott_problem ascii
+count equal_size scott_problem
+
+# Local Variables:
+# compile-command: "../combine.opt scott.cmb"
+# End:
 
